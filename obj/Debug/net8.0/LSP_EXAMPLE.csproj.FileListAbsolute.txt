@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.AssemblyInfo.cs
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\LSP_EXAMPLE\bin\Debug\net8.0\LSP_EXAMPLE.exe
+C:\Users\David\Desktop\LSP_EXAMPLE\bin\Debug\net8.0\LSP_EXAMPLE.deps.json
+C:\Users\David\Desktop\LSP_EXAMPLE\bin\Debug\net8.0\LSP_EXAMPLE.runtimeconfig.json
+C:\Users\David\Desktop\LSP_EXAMPLE\bin\Debug\net8.0\LSP_EXAMPLE.dll
+C:\Users\David\Desktop\LSP_EXAMPLE\bin\Debug\net8.0\LSP_EXAMPLE.pdb
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.dll
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\refint\LSP_EXAMPLE.dll
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.pdb
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\LSP_EXAMPLE.genruntimeconfig.cache
+C:\Users\David\Desktop\LSP_EXAMPLE\obj\Debug\net8.0\ref\LSP_EXAMPLE.dll
